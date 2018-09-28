@@ -1,5 +1,5 @@
 ## D-Crowdfund
- Crowdfunding dApp built on the ethereum blockchain that allows individuals (idea persons from hereon), who do not have sufficient '$$', to bring their ideas to life. And this '$$' is collected from the general public (contributors) who feel that the idea is valuable enough to spend some money 
+ Crowdfunding dApp built on the ethereum blockchain that allows individuals (idea persons from hereon), who do not have sufficient '$$', to bring their ideas to life. And this '$$' is collected from the general public (contributors) who feel that the idea is valuable enough to spend some money on.
 
 #### Key features include:
 1. Collected crowdfund in the hands of none, but a smart contract.
