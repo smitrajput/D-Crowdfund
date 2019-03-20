@@ -127,11 +127,11 @@ var CampaignIndex = function (_Component) {
 					fileName: _jsxFileName,
 					lineNumber: 38
 				}
-			}, 'Raising Funding for your Project and StartUps from your friends without a third Party Rule.')), _react2.default.createElement('h2', { style: { marginTop: 200 }, __source: {
+			}, 'Raising funds for your project from the public without an intermediary.')), _react2.default.createElement('h2', { style: { marginTop: 200 }, __source: {
 					fileName: _jsxFileName,
 					lineNumber: 41
 				}
-			}, 'Start Funding to the ideas'), _react2.default.createElement('section', { style: { color: 'teal', marginTop: 10 }, __source: {
+			}, 'Start funding your ideas'), _react2.default.createElement('section', { style: { color: 'teal', marginTop: 10 }, __source: {
 					fileName: _jsxFileName,
 					lineNumber: 43
 				}
@@ -140,61 +140,51 @@ var CampaignIndex = function (_Component) {
 					fileName: _jsxFileName,
 					lineNumber: 44
 				}
-			}, 'Sometimes a good idea takes a lot of funds and collective effort. You could ask for donations, but donors prefer to give to projects they are more certain will get traction and proper funding. This is an example where a crowdfunding would be ideal: you set up a goal and a deadline for reaching it. If you miss your goal, the donations are returned, therefore reducing the risk for donors. Since the code is open and auditable, there is no need for a centralized, trusted platform and therefore the only fees everyone will pay are just the gas fees.'), _react2.default.createElement('h4', {
-				__source: {
+			}, 'Sometimes a good idea takes a lot of funds and collective effort. You could ask for donations, but donors prefer to give to projects they are more certain will get traction and proper funding. This is an example where a crowdfunding would be ideal: you set up a goal and a deadline for reaching it. If you miss your goal, the donations are returned, therefore reducing the risk for donors. Since the code is open and auditable, there is no need for a centralized, trusted platform and therefore the only fees everyone will pay are just the gas fees.'))), _react2.default.createElement('div', { style: { margin: 100 }, __source: {
 					fileName: _jsxFileName,
-					lineNumber: 45
-				}
-			}, 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.'), _react2.default.createElement('h4', {
-				__source: {
-					fileName: _jsxFileName,
-					lineNumber: 46
-				}
-			}, 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.'))), _react2.default.createElement('div', { style: { margin: 100 }, __source: {
-					fileName: _jsxFileName,
-					lineNumber: 49
+					lineNumber: 47
 				}
 			}, _react2.default.createElement(_semanticUiReact.Header, { as: 'h2', icon: true, textAlign: 'center', color: 'teal', __source: {
 					fileName: _jsxFileName,
-					lineNumber: 50
+					lineNumber: 48
 				}
 			}, _react2.default.createElement(_semanticUiReact.Icon, { name: 'users', circular: true, __source: {
 					fileName: _jsxFileName,
-					lineNumber: 51
+					lineNumber: 49
 				}
 			}), _react2.default.createElement(_semanticUiReact.Header.Content, {
 				__source: {
 					fileName: _jsxFileName,
-					lineNumber: 52
+					lineNumber: 50
 				}
 			}, 'Open Campaigns!!!'))), _react2.default.createElement(_routes.Link, { route: '/campaigns/new', __source: {
 					fileName: _jsxFileName,
-					lineNumber: 57
+					lineNumber: 55
 				}
 			}, _react2.default.createElement('a', {
 				__source: {
 					fileName: _jsxFileName,
-					lineNumber: 58
+					lineNumber: 56
 				}
 			}, _react2.default.createElement(_semanticUiReact.Button, { animated: 'fade', floated: 'right', basic: true, color: 'teal', __source: {
 					fileName: _jsxFileName,
-					lineNumber: 59
+					lineNumber: 57
 				}
 			}, _react2.default.createElement(_semanticUiReact.Button.Content, { visible: true, __source: {
 					fileName: _jsxFileName,
-					lineNumber: 60
+					lineNumber: 58
 				}
 			}, _react2.default.createElement('p', { style: { color: 'teal' }, __source: {
 					fileName: _jsxFileName,
-					lineNumber: 60
+					lineNumber: 58
 				}
 			}, 'Create Campaigns')), _react2.default.createElement(_semanticUiReact.Button.Content, { hidden: true, __source: {
 					fileName: _jsxFileName,
-					lineNumber: 61
+					lineNumber: 59
 				}
 			}, _react2.default.createElement(_semanticUiReact.Icon, { name: 'add circle', color: 'teal', __source: {
 					fileName: _jsxFileName,
-					lineNumber: 62
+					lineNumber: 60
 				}
 			}))))), this.renderCampaigns()));
 		}
@@ -234,4 +224,4 @@ var CampaignIndex = function (_Component) {
 }(_react.Component);
 
 exports.default = CampaignIndex;
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInBhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbIlJlYWN0IiwiQ29tcG9uZW50IiwiQ2FyZCIsIkJ1dHRvbiIsIkljb24iLCJIZWFkZXIiLCJmYWN0b3J5IiwiTGF5b3V0IiwiTGluayIsIkNhbXBhaWduSW5kZXgiLCJpdGVtcyIsInByb3BzIiwiY2FtcGFpZ25zIiwibWFwIiwiaGVhZGVyIiwiYWRkcmVzcyIsImRlc2NyaXB0aW9uIiwiY29sb3IiLCJmbHVpZCIsIndpZHRoIiwiaGVpZ2h0IiwibWF4V2lkdGgiLCJtYXJnaW5MZWZ0IiwibWFyZ2luVG9wIiwibWFyZ2luIiwicmVuZGVyQ2FtcGFpZ25zIiwibWV0aG9kcyIsImdldERlcGxveWVkQ2FtcGFpZ25zIiwiY2FsbCJdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7OztBQUFBLEFBQU8sQUFBUTs7OztBQUNmLEFBQVMsQUFBTSxBQUFRLEFBQUs7O0FBQzVCLEFBQU8sQUFBYTs7OztBQUNwQixBQUFPLEFBQVk7Ozs7QUFDbkIsQUFBUSxBQUFXOzs7Ozs7O0lBRWIsQTs7Ozs7Ozs7Ozs7b0NBT2EsQUFDakI7T0FBTSxhQUFRLEFBQUssTUFBTCxBQUFXLFVBQVgsQUFBcUIsSUFBSSxtQkFBVyxBQUNqRDs7YUFBTyxBQUNDLEFBQ1A7a0NBQ0MsQUFBQyw4QkFBSyx1QkFBTixBQUEyQjtpQkFBM0I7bUJBQUEsQUFDQTtBQURBO01BQUEsa0JBQ0EsY0FBQTs7aUJBQUE7bUJBQUEsQUFBRztBQUFIO0FBQUEsd0JBQUcsY0FBQSxPQUFHLE9BQU8sRUFBQyxPQUFYLEFBQVUsQUFBTztpQkFBakI7bUJBQUE7QUFBQTtRQUF3QyxrQ0FBQSxBQUFDLHVDQUFLLE1BQU4sQUFBVztpQkFBWDttQkFKdEMsQUFHTCxBQUNBLEFBQUcsQUFBd0MsQUFHNUM7QUFINEM7O1lBSjdDLEFBQU8sQUFPQyxBQUVSO0FBVE8sQUFDTjtBQUZGLEFBQWMsQUFZZCxJQVpjOzt3Q0FZUCxBQUFDLHNCQUFELEFBQU0sU0FBTSxPQUFaLEFBQW1CO2VBQW5CO2lCQUFQLEFBQU8sQUFDUDtBQURPO0lBQUE7Ozs7MkJBR0EsQUFDUDswQkFDQyxBQUFDOztlQUFEO2lCQUFBLEFBQ0M7QUFERDtBQUFBLElBQUEsa0JBQ0MsY0FBQTs7ZUFBQTtpQkFBQSxBQUNDO0FBREQ7QUFBQSxzQkFDQyxjQUFBOztlQUFBO2lCQUFBLEFBRUE7QUFGQTtBQUFBLDZDQUVLLEtBQUwsQUFBUyw4QkFBNkIsT0FBTyxFQUFDLE9BQUQsQUFBTyxLQUFLLFFBQXpELEFBQTZDLEFBQW1CO2VBQWhFO2lCQUZBLEFBRUEsQUFDQztBQUREO3VCQUNDLGNBQUEsYUFBUyxPQUFPLEVBQUMsVUFBRCxBQUFVLEtBQUssT0FBZixBQUFxQixRQUFPLFlBQTVCLEFBQXVDLEtBQUksV0FBVSxDQUFyRSxBQUFnQixBQUFzRDtlQUF0RTtpQkFBQSxBQUNDO0FBREQ7c0JBQ0MsY0FBQTs7ZUFBQTtpQkFBQTtBQUFBO0FBQUEsTUFKRixBQUdDLEFBQ0MsQUFHRCxpSEFBQSxjQUFBLFFBQUksT0FBTyxFQUFDLFdBQVosQUFBVyxBQUFXO2VBQXRCO2lCQUFBO0FBQUE7TUFQRCxBQU9DLEFBRUEsK0NBQUEsY0FBQSxhQUFTLE9BQU8sRUFBRSxPQUFGLEFBQVEsUUFBUSxXQUFoQyxBQUFnQixBQUEyQjtlQUEzQztpQkFBQSxBQUNDO0FBREQ7c0JBQ0MsY0FBQTs7ZUFBQTtpQkFBQTtBQUFBO0FBQUEsTUFERCxBQUNDLEFBQ0EsMGpCQUFBLGNBQUE7O2VBQUE7aUJBQUE7QUFBQTtBQUFBLE1BRkQsQUFFQyxBQUNBLG9sQkFBQSxjQUFBOztlQUFBO2lCQUFBO0FBQUE7QUFBQSxNQWJILEFBQ0MsQUFTQyxBQUdDLEFBR0Ysc2xCQUFBLGNBQUEsU0FBSyxPQUFPLEVBQUMsUUFBYixBQUFZLEFBQVE7ZUFBcEI7aUJBQUEsQUFDQztBQUREO3NCQUNDLEFBQUMseUNBQU8sSUFBUixBQUFXLE1BQUssTUFBaEIsTUFBcUIsV0FBckIsQUFBK0IsVUFBUyxPQUF4QyxBQUE4QztlQUE5QztpQkFBQSxBQUNRO0FBRFI7c0JBQ1EsQUFBQyx1Q0FBSyxNQUFOLEFBQVcsU0FBUyxVQUFwQjtlQUFBO2lCQURSLEFBQ1EsQUFDQTtBQURBO3VCQUNDLGNBQUQsd0JBQUEsQUFBUTs7ZUFBUjtpQkFBQTtBQUFBO0FBQUEsTUFuQlYsQUFnQkMsQUFDQyxBQUVRLEFBS1Qsd0NBQUEsQUFBQyw4QkFBSyxPQUFOLEFBQVk7ZUFBWjtpQkFBQSxBQUNDO0FBREQ7c0JBQ0MsY0FBQTs7ZUFBQTtpQkFBQSxBQUNDO0FBREQ7QUFBQSxzQkFDQyxBQUFDLHlDQUFPLFVBQVIsQUFBaUIsUUFBTyxTQUF4QixBQUFnQyxTQUFRLE9BQXhDLE1BQThDLE9BQTlDLEFBQW9EO2VBQXBEO2lCQUFBLEFBQ0U7QUFERjtzQkFDRyxjQUFELHdCQUFBLEFBQVEsV0FBUSxTQUFoQjtlQUFBO2lCQUFBLEFBQXdCO0FBQXhCO3NCQUF3QixjQUFBLE9BQUcsT0FBTyxFQUFDLE9BQVgsQUFBVSxBQUFPO2VBQWpCO2lCQUFBO0FBQUE7TUFEMUIsQUFDRSxBQUF3QixBQUNuQixzQ0FBQyxjQUFELHdCQUFBLEFBQVEsV0FBUSxRQUFoQjtlQUFBO2lCQUFBLEFBQ0c7QUFESDtzQkFDRyxBQUFDLHVDQUFLLE1BQU4sQUFBVyxjQUFhLE9BQXhCLEFBQThCO2VBQTlCO2lCQTdCYixBQXdCQyxBQUNDLEFBQ0MsQUFFTyxBQUNHLEFBS1Y7QUFMVTtnQkEvQmYsQUFDQyxBQUNDLEFBa0NHLEFBQUssQUFJVjs7Ozs7Ozs7Ozs7O2VBOUR3QixrQkFBQSxBQUFRLFFBQVIsQUFBZ0IsdUJBQXVCLEEsQUFBdkM7O1lBQWxCO0E7eUNBRUMsRUFBRSxXLEFBQUY7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFKbUIsQSxBQW1FNUI7O2tCQUFBLEFBQWUiLCJmaWxlIjoiaW5kZXguanM/ZW50cnkiLCJzb3VyY2VSb290IjoiL2hvbWUvZGVzY2lwbGUvRC1Dcm93ZGZ1bmQifQ==
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInBhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbIlJlYWN0IiwiQ29tcG9uZW50IiwiQ2FyZCIsIkJ1dHRvbiIsIkljb24iLCJIZWFkZXIiLCJmYWN0b3J5IiwiTGF5b3V0IiwiTGluayIsIkNhbXBhaWduSW5kZXgiLCJpdGVtcyIsInByb3BzIiwiY2FtcGFpZ25zIiwibWFwIiwiaGVhZGVyIiwiYWRkcmVzcyIsImRlc2NyaXB0aW9uIiwiY29sb3IiLCJmbHVpZCIsIndpZHRoIiwiaGVpZ2h0IiwibWF4V2lkdGgiLCJtYXJnaW5MZWZ0IiwibWFyZ2luVG9wIiwibWFyZ2luIiwicmVuZGVyQ2FtcGFpZ25zIiwibWV0aG9kcyIsImdldERlcGxveWVkQ2FtcGFpZ25zIiwiY2FsbCJdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7OztBQUFBLEFBQU8sQUFBUTs7OztBQUNmLEFBQVMsQUFBTSxBQUFRLEFBQUs7O0FBQzVCLEFBQU8sQUFBYTs7OztBQUNwQixBQUFPLEFBQVk7Ozs7QUFDbkIsQUFBUSxBQUFXOzs7Ozs7O0lBRWIsQTs7Ozs7Ozs7Ozs7b0NBT2EsQUFDakI7T0FBTSxhQUFRLEFBQUssTUFBTCxBQUFXLFVBQVgsQUFBcUIsSUFBSSxtQkFBVyxBQUNqRDs7YUFBTyxBQUNDLEFBQ1A7a0NBQ0MsQUFBQyw4QkFBSyx1QkFBTixBQUEyQjtpQkFBM0I7bUJBQUEsQUFDQTtBQURBO01BQUEsa0JBQ0EsY0FBQTs7aUJBQUE7bUJBQUEsQUFBRztBQUFIO0FBQUEsd0JBQUcsY0FBQSxPQUFHLE9BQU8sRUFBQyxPQUFYLEFBQVUsQUFBTztpQkFBakI7bUJBQUE7QUFBQTtRQUF3QyxrQ0FBQSxBQUFDLHVDQUFLLE1BQU4sQUFBVztpQkFBWDttQkFKdEMsQUFHTCxBQUNBLEFBQUcsQUFBd0MsQUFHNUM7QUFINEM7O1lBSjdDLEFBQU8sQUFPQyxBQUVSO0FBVE8sQUFDTjtBQUZGLEFBQWMsQUFZZCxJQVpjOzt3Q0FZUCxBQUFDLHNCQUFELEFBQU0sU0FBTSxPQUFaLEFBQW1CO2VBQW5CO2lCQUFQLEFBQU8sQUFDUDtBQURPO0lBQUE7Ozs7MkJBR0EsQUFDUDswQkFDQyxBQUFDOztlQUFEO2lCQUFBLEFBQ0M7QUFERDtBQUFBLElBQUEsa0JBQ0MsY0FBQTs7ZUFBQTtpQkFBQSxBQUNDO0FBREQ7QUFBQSxzQkFDQyxjQUFBOztlQUFBO2lCQUFBLEFBRUE7QUFGQTtBQUFBLDZDQUVLLEtBQUwsQUFBUyw4QkFBNkIsT0FBTyxFQUFDLE9BQUQsQUFBTyxLQUFLLFFBQXpELEFBQTZDLEFBQW1CO2VBQWhFO2lCQUZBLEFBRUEsQUFDQztBQUREO3VCQUNDLGNBQUEsYUFBUyxPQUFPLEVBQUMsVUFBRCxBQUFVLEtBQUssT0FBZixBQUFxQixRQUFPLFlBQTVCLEFBQXVDLEtBQUksV0FBVSxDQUFyRSxBQUFnQixBQUFzRDtlQUF0RTtpQkFBQSxBQUNDO0FBREQ7c0JBQ0MsY0FBQTs7ZUFBQTtpQkFBQTtBQUFBO0FBQUEsTUFKRixBQUdDLEFBQ0MsQUFHRCw2RkFBQSxjQUFBLFFBQUksT0FBTyxFQUFDLFdBQVosQUFBVyxBQUFXO2VBQXRCO2lCQUFBO0FBQUE7TUFQRCxBQU9DLEFBRUEsNkNBQUEsY0FBQSxhQUFTLE9BQU8sRUFBRSxPQUFGLEFBQVEsUUFBUSxXQUFoQyxBQUFnQixBQUEyQjtlQUEzQztpQkFBQSxBQUNDO0FBREQ7c0JBQ0MsY0FBQTs7ZUFBQTtpQkFBQTtBQUFBO0FBQUEsTUFYSCxBQUNDLEFBU0MsQUFDQyxBQUdGLDRqQkFBQSxjQUFBLFNBQUssT0FBTyxFQUFDLFFBQWIsQUFBWSxBQUFRO2VBQXBCO2lCQUFBLEFBQ0M7QUFERDtzQkFDQyxBQUFDLHlDQUFPLElBQVIsQUFBVyxNQUFLLE1BQWhCLE1BQXFCLFdBQXJCLEFBQStCLFVBQVMsT0FBeEMsQUFBOEM7ZUFBOUM7aUJBQUEsQUFDUTtBQURSO3NCQUNRLEFBQUMsdUNBQUssTUFBTixBQUFXLFNBQVMsVUFBcEI7ZUFBQTtpQkFEUixBQUNRLEFBQ0E7QUFEQTt1QkFDQyxjQUFELHdCQUFBLEFBQVE7O2VBQVI7aUJBQUE7QUFBQTtBQUFBLE1BakJWLEFBY0MsQUFDQyxBQUVRLEFBS1Qsd0NBQUEsQUFBQyw4QkFBSyxPQUFOLEFBQVk7ZUFBWjtpQkFBQSxBQUNDO0FBREQ7c0JBQ0MsY0FBQTs7ZUFBQTtpQkFBQSxBQUNDO0FBREQ7QUFBQSxzQkFDQyxBQUFDLHlDQUFPLFVBQVIsQUFBaUIsUUFBTyxTQUF4QixBQUFnQyxTQUFRLE9BQXhDLE1BQThDLE9BQTlDLEFBQW9EO2VBQXBEO2lCQUFBLEFBQ0U7QUFERjtzQkFDRyxjQUFELHdCQUFBLEFBQVEsV0FBUSxTQUFoQjtlQUFBO2lCQUFBLEFBQXdCO0FBQXhCO3NCQUF3QixjQUFBLE9BQUcsT0FBTyxFQUFDLE9BQVgsQUFBVSxBQUFPO2VBQWpCO2lCQUFBO0FBQUE7TUFEMUIsQUFDRSxBQUF3QixBQUNuQixzQ0FBQyxjQUFELHdCQUFBLEFBQVEsV0FBUSxRQUFoQjtlQUFBO2lCQUFBLEFBQ0c7QUFESDtzQkFDRyxBQUFDLHVDQUFLLE1BQU4sQUFBVyxjQUFhLE9BQXhCLEFBQThCO2VBQTlCO2lCQTNCYixBQXNCQyxBQUNDLEFBQ0MsQUFFTyxBQUNHLEFBS1Y7QUFMVTtnQkE3QmYsQUFDQyxBQUNDLEFBZ0NHLEFBQUssQUFJVjs7Ozs7Ozs7Ozs7O2VBNUR3QixrQkFBQSxBQUFRLFFBQVIsQUFBZ0IsdUJBQWhCLEFBQXVDLEE7O1lBQXpEO0E7eUNBRUMsRUFBRSxXQUFGLEE7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFKbUIsQSxBQWlFNUI7O2tCQUFBLEFBQWUiLCJmaWxlIjoiaW5kZXguanM/ZW50cnkiLCJzb3VyY2VSb290IjoiL2hvbWUvZGVzY2lwbGUvRC1Dcm93ZGZ1bmQifQ==

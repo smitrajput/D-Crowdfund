@@ -5,7 +5,7 @@ const compiledFactory = require('./build/CampaignFactory.json');
 
 const provider = new HDWalletProvider(
 'salute tissue drink laundry attend outdoor spray punch category dawn forest erode',
-'https://rinkeby.infura.io/jVETSZwQm7wI0uH7adqt'
+'httpls://rinkeby.infura.io/v3/23a3d87c9d1043eba20daaccb889d5b1'
 
 );
 
